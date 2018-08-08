@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALMANAQUE</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hintNome">Nome</string>
+    <string name="hintEmail">Email</string>
+    <string name="btAddIncluir">Incluir</string>
+    <string name="btAddContato">Adicionar Contato</string>
+    <string name="btAtualizar">Atualizar</string>
+    <string name="btExcluir">Excluir</string>
+    <string name="msgAlterar">Alterar Contato</string>
+    <string name="msgIncluir">Adicionar Contato</string>
+</resources>
